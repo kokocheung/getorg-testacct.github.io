@@ -18,10 +18,10 @@ Qiuwen Zhang, Fei Yan, Ji Shen, Song Ye, Bo Ren and <b>Xike Zhang</b>. <i>Desali
 
 ## Remote Sensing
 
-<b>[Surface Water Are Variations Monitoring and Flood Hazards Using Landsat Image Data in Dongting Lake from 1988 to 2016]({{ base_path }}/publications/FEB_18_00628)</b><br>
+<b>[SURFACE WATER AREA VARIATIONS MONITORING AND FLOOD HAZARDS USING LANDSAT IMAGE DATA IN DONGTING LAKE FROM 1988 TO 2016]({{ base_path }}/publications/FEB_18_00628)</b><br>
 <b>Xike Zhang</b>, Qiuwen Zhang, Gui Zhang, Zhiping Nie, Zifan Gui and Huafei Que.. <i>Fresenius Environmental Bulletin</i>. 2018, 27(9), 6168-6178. (SCI, Q4, IF: 0.673)
 
-<b>[Landsat-Based Two Decades Land Cover Change in Dongting Lake Region]({{ base_path }}/publications/FBE_17_01242)</b><br>
+<b>[LANDSAT-BASED TWO DECADES LAND COVER ChANGE IN DONGTING LAKE REGION]({{ base_path }}/publications/FBE_17_01242)</b><br>
 <b>Xike Zhang</b>, Qiuwen Zhang, Gui Zhang Zifan Gui and Zhiping Nie. <i>Fresenius Environmental Bulletin</i>. 2018, 27(3), 1563-1573. (SCI, Q4, IF: 0.673)
 
 <b>[A Comparison Study of Normalized Difference Water Index and Object-Oriented Classification Method in River Network Extraction from Landsat-TM Imagery]({{ base_path }}/publications/QS178_IEEEXplore)</b><br>
