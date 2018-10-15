@@ -15,14 +15,14 @@ redirect_from:
 <!--* M.S. in Testonomy, Testing University, 2014-->
 <!--* Ph.D in Hydraulic Engineering (Research Field: Hydraulic Informatization), Huazhong University of Science and Techonolog, 2019-->
 
-### Work experience
+## Work experience
 <!--======-->
 * 2013.6 to present, Hunan City University, (GIS Tearcher)
 * 2011.07 to 2012.11, Guangzhou Digital Cities Institute Co., Ltd. (Trainee, Software Development Engineer)
 * 2008.09 to 2009.07, Zhuzhou Huatong Science and Technology Co., Ltd. (Software Development Engineer)
 * 2008.04 to 2008.09 Motorola-Micro-Cisco(Beijing) Mobile Communication Technology Co., Ltd. (Software Development Engineer)
   
-### Skills
+## Skills
 <!--======-->
 + GIS&RS data Processing&Modeling Software
    + ArcGIS Desktop/Engine/Server
@@ -39,19 +39,19 @@ redirect_from:
 OS
    + Windows, Linux, macOS
 
-### Publications
+## Publications
 <!--======-->
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Talks
+## Talks
 <!--======-->
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-### Teaching Courses
+## Teaching Courses
 <!--======-->
 * Year 2014
    * WebGIS
