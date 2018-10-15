@@ -16,3 +16,9 @@ redirect_from:
 
 * My research interests lie in GIS, big data, intelligent computing and the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in remote sensing, meteorology & hydrology.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
