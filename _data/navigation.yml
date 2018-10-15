@@ -2,16 +2,30 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Funds"
+    url: /funds/
+    
+  - title: "Patents"
+    url: /patents/
+    
   - title: "Talks"
     url: /talks/    
 
+  - title: "A&Cs"
+    url: /aandcs/
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - title: "Skills"
+    url: /skills/ 
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+         
   - title: "CV"
-    url: /cv/
-    
+    url: /cv/   
+   
+  - title: "Contact"
+    url: /contact/
