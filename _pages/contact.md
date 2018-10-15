@@ -4,9 +4,9 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-
+{% include base_path %}
 <p>
-  <img src="https://kokocheung.github.io/mysite/files/wechart.jpg?raw=true" alt="WeChat" style="width:100px;" />
+  <img src="{{ base_path }}/files/wechart.jpg?raw=true" alt="WeChat" style="width:100px;" />
  </p>
 
 Phone: +86-13677344277 <br>
