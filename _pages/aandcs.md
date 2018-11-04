@@ -17,5 +17,5 @@ author_profile: true
 + Certificate of excellent under-graduate design instructor, Certificated by Hunan City Univerity, 2014<br>
 + Certificate of Mandarin Level Test, Level Two-B, Certificated by Hunansheng Yuyan Wenzi Gongzuo Weiyuanhui, 2013<br>
 + Certificate of College English Test, Level 6, Certificated by College Englist Test Band 4 and Band 6 of People's Republic of China, 2006<br>
-+ Certificate of Computer Information Technology Testing, Naional Level 4, Certificated by Occupation Skill Testing Authorith Ministry of Labor and Social Security of People's Republic of China, 2007<br>
-+ Certificate of Computer Information Technology Testing, Naional Level 3, Certificated by Occupation Skill Testing Authorith Ministry of Labor and Social Security of People's Republic of China, 2006<br>
++ Certificate of Computer Information Technology Testing, National Level 4, Certificated by Occupation Skill Testing Authorith Ministry of Labor and Social Security of People's Republic of China, 2007<br>
++ Certificate of Computer Information Technology Testing, National Level 3, Certificated by Occupation Skill Testing Authorith Ministry of Labor and Social Security of People's Republic of China, 2006<br>
