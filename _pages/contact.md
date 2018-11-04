@@ -9,7 +9,7 @@ author_profile: true
   <img src="{{ base_path }}/files/wechart.jpg?raw=true" alt="WeChat" style="width:100px;" />
  </p>
 
-Phone: +86-13677344277 <br>
+Phone: +86-13028842775 <br>
 Email: koko@hust.edu.cn<br>
 
 Office: Room 311 Dynamic Simulation Building <br>
