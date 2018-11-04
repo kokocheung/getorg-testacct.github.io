@@ -17,7 +17,7 @@ redirect_from:
 
 ## Work experience
 <!--======-->
-* 2013.6 to 2015.6, Hunan City University, (GIS Tearcher)
+* 2013.6 to 2015.8, Hunan City University, (GIS Tearcher)
 * 2011.07 to 2012.11, Guangzhou Digital Cities Institute Co., Ltd. (Trainee, Software Development Engineer)
 * 2008.09 to 2009.07, Zhuzhou Huatong Science and Technology Co., Ltd. (Software Development Engineer)
 * 2008.04 to 2008.09 Motorola-Micro-Cisco(Beijing) Mobile Communication Technology Co., Ltd. (Software Development Engineer)
