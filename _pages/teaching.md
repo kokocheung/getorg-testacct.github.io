@@ -11,8 +11,4 @@ author_profile: true
 + Year 2015
    + Java Programming
    + Mobile GIS
-+ Year 2016
-   + Java Programming
-   + Mobile GIS
-+ Year 2017
    + ArcGIS and EVNI Software Application
