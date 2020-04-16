@@ -6,5 +6,5 @@ venue: "2017 2nd International Conference on Frontiers of Sensors Technologies"
 date: 2017-12-14
 citation: <b>Zhang, X.</b>, Zhang, Q., Zhang, G., Gui, Z. <i>2017 2nd International Conference on Frontiers of Sensors Technologies</i>.
 ---
-[[PDF]](https://kokocheung.github.io/mysite/files/QS178_IEEEXplore.pdf)
+[[PDF]]()
 
