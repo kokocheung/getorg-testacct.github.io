@@ -28,5 +28,5 @@ Zhang, Q., Yan, F., Shen, J., Ye, S., Ren, B., <b>Zhang, X.</b> <i>Desalin. Wate
 <b>Zhang, X.</b>, Zhang, Q., Zhang, G., Gui, Z. <i>2017 2nd International Conference on Frontiers of Sensors Technologies</i>. 2018, 27(3), 1563-1573. (EI)
 
 ## Intelligent Computing
-<b>[A modified Multifractal Detrended Fluctuation Analysis (MFDFA) Approach for Multifractal Analysis of Precipitation in Dongting Lake Basin, China.]({{ base_path }}/publications/water-11-00891</b><br>
+<b>[A modified Multifractal Detrended Fluctuation Analysis (MFDFA) Approach for Multifractal Analysis of Precipitation in Dongting Lake Basin, China.]({{ base_path }}/publications/water-11-00891)</b><br>
 <b>Zhang, X.</b>, Zhang, G., Qiu, L. Zhang, B., Sun, Y., Gui, Z., Zhang, Q.  <i>Water</i>, 2019,11(5):891.(SCI, Q2, IF: 2.524)
